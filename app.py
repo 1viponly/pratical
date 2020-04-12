@@ -1,1 +1,1 @@
-app
+<module 'app' from 'D:\\practical_1\\app.py'>

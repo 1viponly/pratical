@@ -1,1 +1,1 @@
-D:\practical_1\app.py
+app
